@@ -1,0 +1,1 @@
+//must be client side componnet so that client can see and debug the errors

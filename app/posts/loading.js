@@ -1,0 +1,1 @@
+// spinner or pagre loding sometime our website dosent load correctly so we create error js file 
